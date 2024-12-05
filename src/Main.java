@@ -12,5 +12,8 @@ public class Main {
 
         Cylinder cyl = new Cylinder(100);
         System.out.println(cyl);
+
+        Rectangle rect = new Rectangle();
+        System.out.println(rect);
     }
 }
